@@ -28,11 +28,11 @@ wwv_flow_imp.import_begin (
 end;
 /
  
-prompt APPLICATION 100 - Scratch
+prompt APPLICATION 100 - MyApp
 --
 -- Application Export:
 --   Application:     100
---   Name:            Scratch
+--   Name:            MyApp
 --   Date and Time:   20:31 Thursday May 8, 2025
 --   Exported By:     DEV
 --   Flashback:       0
@@ -55,7 +55,7 @@ wwv_flow_imp_shared.create_plugin(
  p_id=>wwv_flow_imp.id(12349959918101827)
 ,p_plugin_type=>'REGION TYPE'
 ,p_name=>'COMPARATIVE_METER_BARS68617'
-,p_display_name=>'New Comaparative Meter Bars'
+,p_display_name=>'Comaparative Meter Bars'
 ,p_javascript_file_urls=>'#PLUGIN_FILES#plugin_index#MIN#.js'
 ,p_css_file_urls=>'#PLUGIN_FILES#comparative_meter_bars_plugin#MIN#.css'
 ,p_plsql_code=>wwv_flow_string.join(wwv_flow_t_varchar2(
