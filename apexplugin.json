@@ -1,5 +1,5 @@
 {
-  "name": "ComparativeMeterBars",
+  "name": "Comparative Meter Bars",
   "version": "2.0",
   "description": "A custom Oracle APEX region plugin for visualizing comparative data using horizontal meter bars, ideal for dashboards comparing KPIs across regions, departments, or categories.",
   "keywords": [
