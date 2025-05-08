@@ -1,6 +1,9 @@
 # 🔢 APEX Comparative Meter Bars Plugin
 A custom Oracle APEX region plugin for visualizing comparative data using horizontal meter bars, ideal for dashboards that compare values (e.g., KPIs) across regions, departments, or categories.
 
+## 🖼️ Screenshot
+![How it looks](./how%20it%20looks.gif)
+
 ## 📌 Features
 Horizontal meter bars with configurable:
 - Color
@@ -46,9 +49,6 @@ Your SQL query must return these columns and map them via the plugin attributes:
 2. Add a new Region and choose this plugin type.
 3. Provide a SQL query and map columns accordingly.
 4. Customize region subtitle and appearance as needed.
-
-## 🖼️ Screenshot
-![How it looks](./how%20it%20looks.gif)
 
 ## 🧑‍💻 Author
 Built with ❤️ for Oracle APEX by ABJABJA Salah-Eddine.
