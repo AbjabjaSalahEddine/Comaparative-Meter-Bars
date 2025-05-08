@@ -47,7 +47,7 @@ Your SQL query must return these columns and map them via the plugin attributes:
 ## 📦 Installation
 1. Import the plugin file into your APEX app.
 2. Add a new Region and choose this plugin type.
-3. Provide a SQL query and map columns accordingly.
+3. Provide a SQL query ( an example is provided in the help section ) and map columns accordingly.
 4. Customize region subtitle and appearance as needed.
 
 ## 🧑‍💻 Author
