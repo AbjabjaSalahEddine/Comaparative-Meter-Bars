@@ -19,7 +19,7 @@ whenever sqlerror exit sql.sqlcode rollback
 begin
 wwv_flow_imp.import_begin (
  p_version_yyyy_mm_dd=>'2024.11.30'
-,p_release=>'24.2.0'
+,p_release=>'24.1.7'
 ,p_default_workspace_id=>7698810536136159
 ,p_default_application_id=>100
 ,p_default_id_offset=>0
@@ -40,7 +40,7 @@ prompt APPLICATION 100 - MyApp
 --   Manifest
 --     PLUGIN: 12349959918101827
 --   Manifest End
---   Version:         24.2.0
+--   Version:         24.1.7
 --   Instance ID:     7698671066064501
 --
 
