@@ -1,0 +1,53 @@
+{
+  "name": "ComparativeMeterBars",
+  "version": "2.0",
+  "description": "A custom Oracle APEX region plugin for visualizing comparative data using horizontal meter bars, ideal for dashboards comparing KPIs across regions, departments, or categories.",
+  "keywords": [
+    "meter",
+    "bars",
+    "visualization",
+    "comparison",
+    "dashboard",
+    "KPI",
+    "progress",
+    "chart"
+  ],
+  "homepage": "https://github.com/yourusername/apex-plugin-comparative-meter-bars",
+  "bugs": {
+    "url": "https://github.com/AbjabjaSalahEddine/Comaparative-Meter-Bars/issues",
+    "email": "abjabja_salaheddine@hotmail.com"
+  },
+  "license": "MIT",
+  "commercial": "No",
+  "author": {
+    "name": "Salah-Eddine ABJABJA",
+    "email": "abjabja_salaheddine@hotmail.com",
+    "url": "https://github.com/AbjabjaSalahEddine",
+    "donationUrl": "https://buymeacoffee.com/abjabjasalaheddine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AbjabjaSalahEddine/Comaparative-Meter-Bars.git"
+  },
+  "oracle": {
+    "versions": ["18c", "19c", "21c", "23c", "23ai"],
+    "apex": {
+      "versions": [
+        "21.1",
+        "21.2",
+        "22.1",
+        "22.2",
+        "23.1",
+        "23.2",
+        "24.1",
+        "24.2"
+      ],
+      "plugin": {
+        "internalName": "COMPARATIVE.METER.BARS",
+        "type": "region",
+        "demo": "https://gd8453f98ce7e4e-xo9cnlh2n3sschli.adb.eu-amsterdam-1.oraclecloudapps.com/ords/r/dev/scratch/new-version-plugin",
+        "previewImage": "https://raw.githubusercontent.com/AbjabjaSalahEddine/Comaparative-Meter-Bars/refs/heads/main/how%20it%20looks.gif?token=GHSAT0AAAAAADDP6LDZ3NUBK4XZ3BQKVZ622A5G7ZA"
+      }
+    }
+  }
+}
