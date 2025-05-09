@@ -1,3 +1,7 @@
+![Oracle](https://img.shields.io/badge/ORACLE-grey?style=for-the-badge)
+![APEX](https://img.shields.io/badge/APEX-brightgreen?style=for-the-badge)&nbsp;
+![Plug-in Type](https://img.shields.io/badge/Plug--in_Type-grey?style=for-the-badge)
+![Region](https://img.shields.io/badge/Dynamic_Action-orange?style=for-the-badge)
 # 🔢 APEX Comparative Meter Bars Plugin
 A custom Oracle APEX region plugin for visualizing comparative data using horizontal meter bars, ideal for dashboards that compare values (e.g., KPIs) across regions, departments, or categories.
 
