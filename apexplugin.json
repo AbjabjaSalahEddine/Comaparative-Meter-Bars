@@ -45,7 +45,7 @@
       "plugin": {
         "internalName": "COMPARATIVE.METER.BARS",
         "type": "region",
-        "demo": "https://gd8453f98ce7e4e-xo9cnlh2n3sschli.adb.eu-amsterdam-1.oraclecloudapps.com/ords/r/dev/scratch/new-version-plugin",
+        "demo": "https://gd8453f98ce7e4e-xo9cnlh2n3sschli.adb.eu-amsterdam-1.oraclecloudapps.com/ords/r/dev/scratch/comparative-meter-bars-plugin",
         "previewImage": "https://raw.githubusercontent.com/AbjabjaSalahEddine/Comaparative-Meter-Bars/v2.0/how%20it%20looks.gif"
       }
     }
